@@ -1,0 +1,22 @@
+﻿  Graph.cpp
+  initializeColoring.cpp
+e:\partialcolandtabucol\initializecoloring.cpp(23): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(31): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(45): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(55): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(60): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(94): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(102): warning C4018: '>=': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(142): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(150): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(162): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(177): warning C4018: '<': signed/unsigned mismatch
+e:\partialcolandtabucol\initializecoloring.cpp(209): warning C4018: '<': signed/unsigned mismatch
+  inputGraph.cpp
+  main.cpp
+  manipulateArrays.cpp
+  reactcol.cpp
+  tabu.cpp
+  Generating Code...
+  LINK : E:\PartialColAndTabuCol\Debug\PartialColAndTabuCol.exe not found or not built by the last incremental link; performing full link
+  PartialColAndTabuCol.vcxproj -> E:\PartialColAndTabuCol\Debug\PartialColAndTabuCol.exe

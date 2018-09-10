@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  PrextToGCP.cpp
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(181): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(202): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(214): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(234): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(235): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(236): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(267): warning C4018: '>=': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(269): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(286): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(356): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(360): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(381): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(382): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(383): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(467): warning C4018: '>=': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(537): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(563): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(564): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(597): warning C4018: '<': signed/unsigned mismatch
+e:\prexttogcp\prext_to_gcp\prexttogcp.cpp(601): warning C4018: '<': signed/unsigned mismatch
+  PreGCPFixedKTransformation.cpp
+e:\prexttogcp\prext_to_gcp\pregcpfixedktransformation.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : E:\PrextToGCP\Debug\PrextToGCP.exe not found or not built by the last incremental link; performing full link
+  Prext_to_GCP.vcxproj -> E:\PrextToGCP\Debug\PrextToGCP.exe

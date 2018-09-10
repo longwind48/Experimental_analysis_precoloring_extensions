@@ -1,0 +1,130 @@
+graph-1000-90, p=0
+tabucol targetK 100 dynamic 260 MiSS 0
+tabucol targetK 260 dynamic 260 MiSS 0
+tabucol targetK 261 dynamic 261 HIT 3
+partialcol targetK 100 dynamic 248 MiSS 0
+partialcol targetK 248 dynamic 248 MiSS 0
+partialcol targetK 249 dynamic 248 MiSS 0
+partialcol targetK 250 dynamic 250 HIT 4
+tabucol targetK 200 reactive 260 MISS 0
+tabucol targetK 261 reactive 261 HIT 1
+tabucol targetK 262 reactive 262 HIT 4
+partialcol targetK 200 reactive 250 MiSS 0
+partialcol targetK 251 reactive 251 HIT 2
+partialcol targetK 250 reactive 250 MiSS 0
+
+graph-1000-90, p=1
+partialcol targetK 251 reactive 250 MiSS 0
+partialcol targetK 252 reactive 251 HIT 3
+partialcol targetK 250 dynamic 249 MiSS 0
+partialcol targetK 251 dynamic 250 HIT 2
+partialcol targetK 252 dynamic 251 HIT 1
+tabucol targetK 261 dynamic 262 MiSS 0
+tabucol targetK 261 reactive 262 MISS 0
+tabucol targetK 261 reactive 262 MISS 0
+tabucol targetK 262 dynamic 262 MiSS 0
+tabucol targetK 262 reactive 263 MISS 0
+tabucol targetK 263 dynamic 263 MiSS 0
+tabucol targetK 263 reactive 263 MISS 0
+tabucol targetK 264 dynamic 265 MiSS 0
+tabucol targetK 264 reactive 264 MISS 0
+tabucol targetK 265 dynamic 265 MiSS 0
+tabucol targetK 265 reactive 266 MISS 0
+tabucol targetK 266 dynamic 265 MiSS 0
+tabucol targetK 266 reactive 265 MISS 0
+tabucol targetK 267 dynamic 267 MiSS 0
+tabucol targetK 267 reactive 268 MISS 0
+tabucol targetK 270 dynamic 271 MiSS 0
+tabucol targetK 270 reactive 270 MISS 0
+tabucol targetK 280 dynamic 281 MiSS 0
+tabucol targetK 280 reactive 280 MISS 0
+tabucol targetK 300 dynamic 299 HIT 1
+tabucol targetK 300 reactive 299 MISS 0
+tabucol targetK 400 dynamic 399 MiSS 0
+tabucol targetK 400 reactive 400 HIT 1
+tabucol targetK 350 reactive 398 MISS 0
+tabucol targetK 350 reactive 349 HIT 1
+tabucol targetK 325 reactive 325 HIT 2
+tabucol targetK 315 reactive 314 MISS 0
+tabucol targetK 320 reactive 320 HIT 1
+tabucol targetK 319 reactive 318 HIT 2
+tabucol targetK 318 reactive 319 HIT 1
+tabucol targetK 317 reactive 316 MISS 0
+tabucol targetK 316 reactive 315 MISS 0
+tabucol targetK 290 dynamic 291 MiSS 0
+tabucol targetK 295 dynamic 296 HIT 1
+tabucol targetK 293 dynamic 293 MiSS 0
+tabucol targetK 294 dynamic 294 MiSS 0
+
+graph-1000-90, p=2
+partialcol targetK 250 dynamic 249 MiSS 0
+partialcol targetK 250 reactive 250 MiSS 0
+partialcol targetK 251 dynamic 250 MiSS 0
+partialcol targetK 251 reactive 250 MiSS 0
+partialcol targetK 252 dynamic 251 MiSS 0
+partialcol targetK 252 reactive 251 MiSS 0
+partialcol targetK 253 dynamic 252 MiSS 0
+partialcol targetK 253 reactive 252 MiSS 0
+partialcol targetK 254 dynamic 253 HIT 1
+partialcol targetK 254 reactive 253 HIT 1
+partialcol targetK 255 dynamic 255 HIT 1
+partialcol targetK 255 reactive 254 HIT 3
+tabucol targetK 299 dynamic 298 MiSS 0
+tabucol targetK 299 reactive 299 MISS 0
+tabucol targetK 310 dynamic 310 MiSS 0
+tabucol targetK 320 dynamic 320 HIT 1
+
+tabucol targetK 318 reactive 317 HIT 2
+tabucol targetK 317 reactive 317 HIT 2
+tabucol targetK 315 reactive 314 MISS 0
+tabucol targetK 316 reactive 316 HIT 1
+tabucol targetK 315 dynamic 315 HIT 2
+tabucol targetK 313 dynamic 312 HIT 1
+tabucol targetK 312 dynamic 313 MiSS 0
+tabucol targetK 314 dynamic 313 HIT 1
+
+graph-1000-90, p=3
+partialcol targetK 250 dynamic 249 MiSS 0
+partialcol targetK 250 reactive 251 MiSS 0
+partialcol targetK 251 dynamic 251 HIT 3
+partialcol targetK 251 reactive 251 HIT 1
+tabucol targetK 313 dynamic 313 HIT 2
+tabucol targetK 313 reactive 313 HIT 1
+tabucol targetK 303 dynamic 302 HIT 2
+tabucol targetK 303 reactive 302 MISS 0
+tabucol targetK 293 dynamic 292 HIT 1
+tabucol targetK 300 dynamic 300 HIT 2
+tabucol targetK 297 dynamic 296 HIT 2
+tabucol targetK 295 dynamic 294 HIT 1
+tabucol targetK 294 dynamic 294 HIT 2
+tabucol targetK 310 reactive 309 MISS 0
+tabucol targetK 312 reactive 311 MISS 0
+tabucol targetK 283 dynamic 282 MiSS 0
+tabucol targetK 290 dynamic 289 MiSS 0
+tabucol targetK 292 dynamic 291 HIT 1
+tabucol targetK 291 dynamic 290 MiSS 0
+
+
+graph-1000-90, p=4
+partialcol targetK 250 dynamic 249 HIT 3
+partialcol targetK 250 reactive 249 MiSS 0
+partialcol targetK 249 dynamic 248 MiSS 0
+partialcol targetK 249 reactive 250 MiSS 0
+partialcol targetK 251 reactive 250 MiSS 0
+partialcol targetK 252 reactive 252 HIT 4
+tabucol targetK 291 dynamic 291 HIT 3
+tabucol targetK 281 dynamic 281 HIT 4
+tabucol targetK 271 dynamic 270 HIT 2
+tabucol targetK 261 dynamic 260 MiSS 0
+tabucol targetK 266 dynamic 266 HIT 4
+tabucol targetK 263 dynamic 262 HIT 3
+tabucol targetK 262 dynamic 261 MiSS 0
+tabucol targetK 290 reactive 289 HIT 4
+tabucol targetK 280 reactive 280 HIT 5
+tabucol targetK 270 reactive 269 HIT 2
+tabucol targetK 260 reactive 261 MISS 0
+tabucol targetK 265 reactive 265 HIT 3
+tabucol targetK 263 reactive 263 HIT 4
+tabucol targetK 262 reactive 261 HIT 1
+tabucol targetK 261 reactive 261 MISS 0
+
